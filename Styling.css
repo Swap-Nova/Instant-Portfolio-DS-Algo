@@ -1,0 +1,42 @@
+body{
+    background-color: #072227;
+    background-repeat: no-repeat;
+     background-size: cover;
+     right: 500px;
+     /* display: block; */
+
+    }
+
+.sidebar{
+    background-color: #219F94;
+    width:20vw;
+}
+
+.sidebar nav{
+    padding: 72px;
+}   
+
+.sidebar nav li{
+    font-style: 10px;
+    padding: 7px 0;
+}
+.main_content{
+    background-color: #C1DEAE;
+    width:100vw;
+    font-style: 50px;
+    padding: 30px 0;
+}
+
+.main_content nav li{
+    list-style-type: none;
+    font-style: 10px;
+    padding: 20px 0;
+}
+
+.container{
+    display: flex;
+}
+
+.contest{
+    background-color: #93FFD8;
+}
